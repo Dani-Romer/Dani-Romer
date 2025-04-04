@@ -3,7 +3,7 @@
 
 I studied the profession of data analyst at the British School of Creative Arts and Technology (EBAC)
 
-I enjoy performing statistical analysis to understand trends and correlations in databases. I have the knowledge to apply data management techniques in SQL, Excel, and Python. I can identify and create graphs using Ploty effectively, and present them in reports by creating dashboards using visualization programs such as Looker Studio and Power BI.
+I enjoy performing statistical analysis to understand trends and correlations in databases. I have knowledge of applying data management techniques in SQL, Excel, and Python. I can identify and create graphs using Ploty effectively and present them in analytical reports. I also enjoy creating dashboards using visualization programs such as Looker Studio and Power BI.
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 

@@ -1,17 +1,20 @@
-# Hi, I´m Gerardo Daniel
-          I live in Mexico City and I'm a data analyst
+# Hola, soy G. Daniel Romero
+          Vivo en la Ciudad de México y soy analista de datos
 
-I studied the profession of data analyst at the British School of Creative Arts and Technology (EBAC)
+Estudié la profesión de analista de datos en la escuela: British School of Creative Arts and Technology (EBAC)
 
-I enjoy performing statistical analysis to understand trends and correlations in databases. I have knowledge of applying data management techniques in SQL, Excel, and Python. I can identify and create graphs using Ploty effectively and present them in analytical reports. I also enjoy creating dashboards using visualization programs such as Looker Studio and Power BI.
+Me gusta realizar análisis estadísticos para comprender tendencias y correlaciones en bases de datos. Tengo conocimientos de aplicación de técnicas de gestión de datos en SQL, Excel y Python. Puedo identificar y crear gráficos usando Ploty de manera efectiva y presentarlos en informes analíticos. También disfruto creando dashboards utilizando programas de visualización como Looker Studio y Power BI.
+
+Me gusta el trabajo en equipo, la creatividad y el aprendizaje continuo. Quisiera seguir creciendo profesional y académicamente como analista de datos. Conocer nueva herramientas y procesos en la gestion de datos.
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-Find me on
+Pudes entrar a mi Linkedin en el siguiente enlace:
 
 <a href="https://www.linkedin.com/in/daniel-romero-analist/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+
 
 
 

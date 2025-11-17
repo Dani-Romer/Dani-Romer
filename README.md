@@ -11,7 +11,7 @@ Me gusta el trabajo en equipo, la creatividad y el aprendizaje continuo. Quisier
 
 Pudes entrar a mi Linkedin en el siguiente enlace:
 
-<a href="https://www.linkedin.com/in/daniel-romero-analist/">
+<a href="https://www.linkedin.com/in/daniel-romero-analyst/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
